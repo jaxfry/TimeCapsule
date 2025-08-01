@@ -27,4 +27,5 @@
 "U5","1","W25Q128JVS","","","","Package_SO:SOIC-8_5.3x5.3mm_P1.27mm","https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf","Winbond Electronics","W25Q128JVSIQ TR","256-W25Q128JVSIQTRCT-ND","2.35000","https://www.digikey.ca/en/products/detail/winbond-electronics/W25Q128JVSIQ-TR/5803944"
 "U6","1","74LVC1G32","","","","Package_TO_SOT_SMD:SOT-23-5","http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf","Texas Instruments","SN74LVC1G32DBVR","296-9847-1-ND","0.17000","https://www.digikey.ca/en/products/detail/texas-instruments/SN74LVC1G32DBVR/381323"
 "Y1","1","ABM8-272-T3","","","","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm","","ABRACON","ABM8-272-T3","535-ABM8-272-T3CT-ND","0.83000","https://www.digikey.ca/en/products/detail/abracon-llc/ABM8-272-T3/22472366"
-"","","","","","","","","","","Total","","$18.62 (CAD) (excluding shipping, taxes, and PCB"
+"PCB","","","","","","","","","","PCB","","$2.76 (exc. shipping), $35.01 (CAD) (including shipping)"
+"","","","","","","","","","","Total","","$21.38 (CAD) (excluding shipping, taxes)"
