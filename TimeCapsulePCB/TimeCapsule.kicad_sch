@@ -8868,7 +8868,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY #" "YAG3003CT-ND"
+		(property "DIGIKEY #" "P16.9KLCT-ND"
 			(at 53.34 238.76 90)
 			(effects
 				(font
@@ -8877,7 +8877,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0716K9L"
+		(property "MPN" "ERJ-2RKF1692X"
 			(at 53.34 238.76 90)
 			(effects
 				(font
@@ -8886,7 +8886,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "YAGEO"
+		(property "MANUFACTURER" "Panasonic Electronic Components"
 			(at 53.34 238.76 90)
 			(effects
 				(font
@@ -11239,7 +11239,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY #" "YAG3085CT-ND"
+		(property "DIGIKEY #" "738-RMCF0402FT27R4CT-ND"
 			(at 35.56 67.31 90)
 			(effects
 				(font
@@ -11248,7 +11248,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0727R4L"
+		(property "MPN" "RMCF0402FT27R4"
 			(at 35.56 67.31 90)
 			(effects
 				(font
@@ -11257,7 +11257,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "YAGEO"
+		(property "MANUFACTURER" "Stackpole Electronics Inc"
 			(at 35.56 67.31 90)
 			(effects
 				(font
@@ -12394,7 +12394,7 @@
 				(hide yes)
 			)
 		)
-		(property "DIGIKEY #" "YAG3085CT-ND"
+		(property "DIGIKEY #" "738-RMCF0402FT27R4CT-ND"
 			(at 35.56 76.2 90)
 			(effects
 				(font
@@ -12403,7 +12403,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402FR-0727R4L"
+		(property "MPN" "RMCF0402FT27R4"
 			(at 35.56 76.2 90)
 			(effects
 				(font
@@ -12412,7 +12412,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "YAGEO"
+		(property "MANUFACTURER" "Stackpole Electronics Inc"
 			(at 35.56 76.2 90)
 			(effects
 				(font
